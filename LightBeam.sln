@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lightBeam", "lightBeam.vcxproj", "{C68FD29A-9B88-49EA-B55F-C93066290317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C68FD29A-9B88-49EA-B55F-C93066290317}.Debug|x86.ActiveCfg = Debug|Win32
+		{C68FD29A-9B88-49EA-B55F-C93066290317}.Debug|x86.Build.0 = Debug|Win32
+		{C68FD29A-9B88-49EA-B55F-C93066290317}.Release|x86.ActiveCfg = Release|Win32
+		{C68FD29A-9B88-49EA-B55F-C93066290317}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9D55A54-DD66-41A3-B11D-F4E1C0B3891B}
+	EndGlobalSection
+EndGlobal
